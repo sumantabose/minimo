@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/sumantabose/sumantabose.github.io.git
+	branch = master
