@@ -11,6 +11,8 @@ cd public
 git checkout master
 # Update username
 git config credential.username "sumantabose"
+# Add CNAME
+echo sumantabose.me > CNAME
 # Check status
 git status
 # Add changes to git.
@@ -51,3 +53,5 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
+
+echo -e "\033[0;32mDone ...\033[0m"
