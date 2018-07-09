@@ -9,8 +9,8 @@ menu:
 weight: -250
 ---
 
-Here's one from the PhD comics that I like!
-<img src="../images/publish-or-perish.gif" alt="Publish or Perish" width="450px"/></br>
+Here' a quip about all that goes between publish and/or perish!
+<img src="../images/publish-or-perish.gif" alt="Publish and/or Perish" width="450px"/></br>
 Source: [Piled Higher and Deeper](http://phdcomics.com/comics/archive.php?comicid=1443)
 
 
