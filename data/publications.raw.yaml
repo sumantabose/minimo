@@ -112,6 +112,71 @@ publications:
       Website: https://ieeexplore.ieee.org/abstract/document/8118819/
       Download: strain-profile-electronic-bandstructure-CdS-CdSe-QR.pdf
 
+    - Date: 2017-07-25
+      Type: journal
+      Authors:
+        -
+          first: Zhigang
+          last: Song
+        -
+          first: Sumanta
+          last: Bose
+        -
+          first: Wei Jun
+          last: Fan
+        -
+          first: Dao Hua
+          last: Zhang
+        -
+          first: Yan Yang
+          last: Zhang
+        -
+          first: Shu Shen
+          last: Li
+
+      Title: "Quantum Spin Hall Effect and Topological Phase Transition in InNx Biy Sb1−x−y/InSb Quantum Wells"
+      Journal: New Journal of Physics
+      Volume: 19
+      Issue: 7
+      Pages: 073031
+      Publisher: Institute of Physics (IoP)
+      Website: http://iopscience.iop.org/article/10.1088/1367-2630/aa795c/
+      Download: http://iopscience.iop.org/article/10.1088/1367-2630/aa795c/pdf
+
+    - Date: 2017-06-25
+      Type: conference
+      Authors:
+        -
+          first: Sumanta
+          last: Bose
+        -
+          first: Savas
+          last: Delikanli
+        -
+          first: Mehmet Zafer
+          last: Akgul
+        -
+          first: Yuan
+          last: Gao
+        -
+          first: Wei Jun
+          last: Fan
+        -
+          first: Dao Hua
+          last: Zhang
+        -
+          first: Hilmi Volkan
+          last: Demir
+
+      Title: Inverted Type-I CdS/CdSe Core/Crown Colloidal Quantum Ring
+      Conference: 2017 European Conference on Lasers and Electro-Optics (CLEO-EU) and European Quantum Electronics Conference (EQEC)
+      Location: Munich, Germany
+      Pages: 19
+      Publisher: The Optical Society (OSA)
+      Address: Munich, Germany
+      Website: https://www.osapublishing.org/viewmedia.cfm?uri=CLEO_Europe-2017-CE_P_19
+      Download: inverted-type-I-CdS-CdSe-core-crown-colloidal-QR.pdf
+
 - year: '2013'
   data:
 
