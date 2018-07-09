@@ -11,7 +11,7 @@ weight: -240
 slug: blog
 ---
 
-Styles of Writing! *Blog writing? Academic Writing?*
+So many *Styles of Writing!* What about *Blog writing? Academic Writing?*
 <img src="../images/stylesofwriting.jpg" alt="Styles of Writing" width="450px"/></br>
 Source: [AllTop](https://www.alltop.com/viral/an-offbeat-take-on-the-styles-of-writing-comic)
 
