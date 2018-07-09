@@ -1,7 +1,7 @@
 ---
 title: Contact
 linkTitle: Contact
-description: If ever you think want to donate some money, here's how to contact me.
+description: If ever you think you want to donate some money, here's how to get in touch.
 date: 2018-06-10T22:00:25+08:00
 menu:
   - main

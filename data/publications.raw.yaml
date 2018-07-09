@@ -453,10 +453,227 @@ publications:
 
       Title: Group Delay Engineering using Cascaded All Pass Filters for Wideband Chirp Waveform Generation
       Conference: 2013 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)
-      Location: Singapore, Singapore
+      Location: Bangalore, India
       Pages: 1-5
       Publisher: Institute of Electrical and Electronics Engineers (IEEE)
       Address: Bangalore, India
       Website: https://ieeexplore.ieee.org/abstract/document/6469308/
       Download: https://dr.ntu.edu.sg/bitstream/handle/10220/19045/Group%20Delay%20Engineering%20using%20Cascaded%20All%20Pass%20Filters%20for%20Wideband%20Chirp%20Waveform%20Generation.pdf
+
+
+- year: '2012'
+  data:
+
+    - Date: 2012-12-07
+      Type: conference
+      Authors:
+        -
+          first: K
+          last: Prabu
+        -
+          first: Sumanta
+          last: Bose
+        -
+          first: D Sriram
+          last: Kumar
+
+      Title: Analysis of Optical Modulators for Radio over Free Space Optical Communication systems and Radio over Fiber Systems
+      Conference: 2012 Annual IEEE India Conference (INDICON)
+      Location: Kochi, India
+      Pages: 1176-1179
+      Publisher: Institute of Electrical and Electronics Engineers (IEEE)
+      Address: Kochi, India
+      Website: https://ieeexplore.ieee.org/abstract/document/6420795/
+      Download: https://dr.ntu.edu.sg/bitstream/handle/10220/19049/Analysis%20of%20optical%20modulators%20for%20Radio%20over%20Free%20Space%20Optical%20Communication%20systems%20and%20Radio%20over%20Fiber%20systems.pdf
+
+    - Date: 2012-12-07
+      Type: conference
+      Authors:
+        -
+          first: Sumanta
+          last: Bose
+        -
+          first: M
+          last: Ramraj
+        -
+          first: S
+          last: Raghavan
+
+      Title: Design, Analysis and Verification of Hexagon Split Ring Resonator based Negative Index Metamaterial
+      Conference: 2012 Annual IEEE India Conference (INDICON)
+      Location: Kochi, India
+      Pages: 1009-1013
+      Publisher: Institute of Electrical and Electronics Engineers (IEEE)
+      Address: Kochi, India
+      Website: https://ieeexplore.ieee.org/abstract/document/6420764/
+      Download: https://dr.ntu.edu.sg/bitstream/handle/10220/19046/Design%2C%20analysis%20and%20verification%20of%20Hexagon%20Split%20Ring%20Resonator%20based%20Negative%20Index%20Metamaterial.pdf
+
+    - Date: 2012-08-19
+      Type: conference
+      Authors:
+        -
+          first: M
+          last: Ramraj
+        -
+          first: S
+          last: Raghavan
+        -
+          first: Sumanta
+          last: Bose
+        -
+          first: Swadhyaya
+          last: Kumar
+
+      Title: "Elliptical Split Ring Resonator: Mathematical Analysis, HFSS Modeling and Genetic Algorithm Optimization"
+      Conference: Progress In Electromagnetics Research Symposium (PIERS)
+      Location: Moscow, Russia
+      Pages: 339
+      Publisher: The Electromagnetics Academy
+      Address: Moscow, Russia
+      Website: https://www.researchgate.net/publication/283759062_Elliptical_Split_Ring_Resonator_Mathematical_analysis_HFSS_modeling_and_Genetic_Algorithm_optimization
+      Download: https://s3.amazonaws.com/academia.edu.documents/33223448/Elliptical_Split_Ring_Resonator_Mathematical_Analysis__HFSS_Modeling_and_Genetic_Algorithm_Optimization.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1531126540&Signature=R1oJ8t0qJ9Wob33phOOqoAqIQ8c%3D&response-content-disposition=inline%3B%20filename%3DElliptical_Split_Ring_Resonator_Mathemat.pdf
+
+    - Date: 2012-08-01
+      Type: conference
+      Authors:
+        -
+          first: M
+          last: Levy
+        -
+          first: D Sriram
+          last: Kumar
+        -
+          first: Anh
+          last: Dinh
+        -
+          first: Sumanta
+          last: Bose
+
+      Title: A Novelistic Approach for Rapid Beam Forming in Smart Antennas for Wireless Applications using Smart-fractal Concepts and New Algorithm
+      Conference: 2012 International Conference on Advances in Mobile Network, Communication and its Applications (MNCAPPS)
+      Location: Bangalore, India
+      Pages: 5-10
+      Publisher: Institute of Electrical and Electronics Engineers (IEEE)
+      Address: Bangalore, India
+      Website: https://ieeexplore.ieee.org/abstract/document/6295743/
+      Download: rapid-beam-forming-smart-antennas-wireless-applications.pdf
+
+    - Date: 2012-07-26
+      Type: conference
+      Authors:
+        -
+          first: Sumanta
+          last: Bose
+        -
+          first: K
+          last: Prabu
+        -
+          first: D Sriram
+          last: Kumar
+
+      Title: Real-time Breath Rate Monitor based Health Security System using Non-invasive Biosensor
+      Conference: 2012 Third International Conference on Computing Communication & Networking Technologies (ICCCNT)
+      Location: Coimbatore, India
+      Pages: 1-6
+      Publisher: Institute of Electrical and Electronics Engineers (IEEE)
+      Address: Coimbatore, India
+      Website: https://ieeexplore.ieee.org/abstract/document/6395957/
+      Download: real-time-breath-rate-monitor-non-invasive-biosensor.pdf
+
+    - Date: 2012-05-01
+      Type: conference
+      Authors:
+        -
+          first: Sumanta
+          last: Bose
+        -
+          first: K
+          last: Prabu
+        -
+          first: D Sriram
+          last: Kumar
+
+      Title: Array Signal Processing & Optimization using Algorithms in Nature
+      Conference: 2012 International Conference on Information and Network Technology (ICINT 2012)
+      Location: Chennai, India
+      Pages: 37
+      Publisher: International Proceedings of Computer Science & Information Technology (IPCSIT)
+      Address: Chennai, India
+      Website: http://cstm.cnki.net/stmt/TitleBrowse/KnowledgeNet/CDYA201204007026?db=STMI8515
+      Download: http://www.ipcsit.com/vol37/026-ICINT2012-I143.pdf
+
+    - Date: 2012-01-01
+      Type: conference
+      Authors:
+        -
+          first: Sumanta
+          last: Bose
+        -
+          first: M
+          last: Ramraj
+        -
+          first: S
+          last: Raghavan
+        -
+          first: Swadhyaya
+          last: Kumar
+
+      Title: Mathematical Modeling, Equivalent Circuit Analysis and Genetic Algorithm Optimization of an N-sided Regular Polygon Split Ring Resonator (NRPSRR)
+      Conference: 2nd International Conference on Communication, Computing & Security (ICCCS 2012)
+      Location: Rourkela, India
+      Pages: 763-770
+      Publisher: Procedia Technology
+      Address: Rourkela, India
+      Website: https://www.sciencedirect.com/science/article/pii/S2212017312006378
+      Download: https://ac.els-cdn.com/S2212017312006378/1-s2.0-S2212017312006378-main.pdf?_tid=87ffe42d-8e15-4bbe-8527-f7cfdae5542c&acdnat=1531125097_325838c9bc7acdfd51e34bdce2223cea
+
+    - Date: 2012-01-01
+      Type: journal
+      Authors:
+        -
+          first: M
+          last: Levy
+        -
+          first: Sumanta
+          last: Bose
+        -
+          first: Anh
+          last: Dinh
+        -
+          first: D Sriram
+          last: Kumar
+
+      Title: "A Novelistic Fractal Antenna for Ultra Wideband (UWB) Applications"
+      Journal: Progress In Electromagnetics Research B (PIER B)
+      Volume: 45
+      Issue: 
+      Pages: 369-393
+      Publisher: EMW Publishing
+      Website: http://ww.jpier.org/PIERB/pier.php?paper=12100703
+      Download: http://ww.jpier.org/PIERB/pierb45/19.12100703.pdf
+
+    - Date: 2012-01-01
+      Type: journal
+      Authors:
+        -
+          first: M
+          last: Levy
+        -
+          first: Sumanta
+          last: Bose
+        -
+          first: D Sriram
+          last: Kumar
+        -
+          first: Anh
+          last: Dinh
+
+      Title: "Rapid Beam Forming in Smart Antennas Using Smart-Fractal Concepts Employing Combinational Approach Algorithms"
+      Journal: International Journal of Antennas and Propagation
+      Volume: 2012
+      Issue: 
+      Pages: 467492
+      Publisher: Hindawi
+      Website: https://www.hindawi.com/journals/ijap/2012/467492/
+      Download: rapid-beam-forming-smart-antennas-smart-fractal-combinational-approach.pdf
 
