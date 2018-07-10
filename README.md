@@ -10,5 +10,7 @@ If you'd like to replicate my website for your personal use, follow the 3 simple
 
 To learn more about Hugo read the [Hugo Documentation](https://gohugo.io/documentation/).
 
+
 Cheers,
-Sumanta
+
+[Sumanta](https://sumantabose.me/)
