@@ -42,6 +42,61 @@ publications:
       Website: https://www.sciencedirect.com/science/article/pii/S0030402617313785
       Download: https://arxiv.org/pdf/1711.02527.pdf
 
+    - Date: 2018-07-05
+      Type: conference
+      Authors:
+        -
+          first: Sumanta
+          last: Bose
+        -
+          first: Zhigang
+          last: Song
+        -
+          first: Weijun
+          last: Fan
+        -
+          first: Dao Hua
+          last: Zhang
+
+      Title: "KdotPsoft: Modelling and Simulation of Semiconductors and Device Physics"
+      Conference: 9th International Conference on Materials for Advanced Technologies (ICMAT 2017)
+      Location: Singapore, Singapore
+      Pages: 36-40
+      Publisher: Elsevier
+      Address: Singapore, Singapore
+      Website: https://www.sciencedirect.com/science/article/pii/S1877705817330205
+      Download: KdotPSoft-modelling-simulation-semiconductor.pdf
+
+    - Date: 2018-07-05
+      Type: conference
+      Authors:
+        -
+          first: Zhigang
+          last: Song
+        -
+          first: Sumanta
+          last: Bose
+        -
+          first: Weijun
+          last: Fan
+        -
+          first: X H
+          last: Tang
+        -
+          first: Dao Hua
+          last: Zhang
+        -
+          first: S S
+          last: Li
+
+      Title: Electronic Structure and Optical Gain of InNBiAs/InP Pyramidal Quantum Dots
+      Conference: 9th International Conference on Materials for Advanced Technologies (ICMAT 2017)
+      Location: Singapore, Singapore
+      Pages: 31-35
+      Publisher: Elsevier
+      Address: Singapore, Singapore
+      Website: https://www.sciencedirect.com/science/article/pii/S1877705817330217
+      Download: elec-str-opt-gain-InNBiAs-InP-pyramidal-quantum-dots.pdf
 
 - year: '2017'
   data:
@@ -675,5 +730,5 @@ publications:
       Pages: 467492
       Publisher: Hindawi
       Website: https://www.hindawi.com/journals/ijap/2012/467492/
-      Download: rapid-beam-forming-smart-antennas-smart-fractal-combinational-approach.pdf
+      Download: rapid-beam-forming-smart-antennas-smart-fractal-combinational.pdf
 

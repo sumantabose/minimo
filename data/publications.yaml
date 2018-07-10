@@ -38,6 +38,60 @@ publications:
         Type: journal
         Volume: 155
         Website: "https://www.sciencedirect.com/science/article/pii/S0030402617313785"
+      - 
+        Address: "Singapore, Singapore"
+        Authors: 
+          - 
+            first: Sumanta
+            last: Bose
+          - 
+            first: Zhigang
+            last: Song
+          - 
+            first: Weijun
+            last: Fan
+          - 
+            first: "Dao Hua"
+            last: Zhang
+        Conference: "9th International Conference on Materials for Advanced Technologies (ICMAT 2017)"
+        Date: 2018-07-05
+        Download: KdotPSoft-modelling-simulation-semiconductor.pdf
+        Location: "Singapore, Singapore"
+        Pages: 36-40
+        Publisher: Elsevier
+        Title: "KdotPsoft: Modelling and Simulation of Semiconductors and Device Physics"
+        Type: conference
+        Website: "https://www.sciencedirect.com/science/article/pii/S1877705817330205"
+      - 
+        Address: "Singapore, Singapore"
+        Authors: 
+          - 
+            first: Zhigang
+            last: Song
+          - 
+            first: Sumanta
+            last: Bose
+          - 
+            first: Weijun
+            last: Fan
+          - 
+            first: "X H"
+            last: Tang
+          - 
+            first: "Dao Hua"
+            last: Zhang
+          - 
+            first: "S S"
+            last: Li
+        Conference: "9th International Conference on Materials for Advanced Technologies (ICMAT 2017)"
+        Date: 2018-07-05
+        Download: elec-str-opt-gain-InNBiAs-InP-pyramidal-quantum-dots.pdf
+        Location: "Singapore, Singapore"
+        Pages: 31-35
+        Publisher: Elsevier
+        Title: "Electronic Structure and Optical Gain of InNBiAs/InP Pyramidal Quantum Dots"
+        Type: conference
+        Website: "https://www.sciencedirect.com/science/article/pii/S1877705817330217"
     year: "2018"
   - 
     data: 
@@ -638,7 +692,7 @@ publications:
             first: Anh
             last: Dinh
         Date: 2012-01-01
-        Download: rapid-beam-forming-smart-antennas-smart-fractal-combinational-approach.pdf
+        Download: rapid-beam-forming-smart-antennas-smart-fractal-combinational.pdf
         Issue: ~
         Journal: "International Journal of Antennas and Propagation"
         Pages: 467492
