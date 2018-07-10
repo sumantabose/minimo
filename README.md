@@ -12,5 +12,4 @@ To learn more about Hugo read the [Hugo Documentation](https://gohugo.io/documen
 
 
 Cheers,
-
 [Sumanta](https://sumantabose.me/)
