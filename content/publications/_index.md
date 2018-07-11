@@ -1,7 +1,7 @@
 ---
 title: Publications
 linkTitle: Publications
-description: An anthology of documents – each of a compilation of some black text (and colourful images) on white paper – modestly attempting to push the boundaries of human knowledge.
+description: An anthology of documents – each a compilation of some black text (and colourful images) on white paper – modestly attempting to push the boundaries of human knowledge.
 date: 2018-06-10T22:00:25+08:00
 menu:
   - main

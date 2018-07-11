@@ -2,7 +2,7 @@
 title: "Research" ### the title of the page
 linkTitle: Research ### the entry in the menu
 #description: An account of the fake research I pretend to do.
-description: A curated list of my current research interests, and those that I previously worked on during my PhD and prior to that – my attempts to understand and appretiate some aspects of human life! 
+description: A curated list of my current research interests, and those that I previously worked on during my PhD and prior to that – my attempts to understand and appreciate some aspects of human life! 
 date: 2018-06-10T22:00:25+08:00
 menu:
   - main
