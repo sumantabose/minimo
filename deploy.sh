@@ -9,7 +9,9 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 cd public
 # Checkout to master branch
 git checkout master
-# Update username
+# Update username, email and credential
+git config --local user.name "sumantabose"
+git config --local user.email "sumantabose@gmail.com"
 git config credential.username "sumantabose"
 # Add CNAME
 echo sumantabose.me > CNAME

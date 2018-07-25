@@ -10,6 +10,10 @@ weight: -270
 
 <img src="../images/welcome.png" alt="Publish and/or Perish" width="150px"/></br>
 
+[**Click here**](../downloads/docs/sumanta-bose-cv.pdf) to download my current CV. [*last updated: Jul 26, 2018*].
+
+---
+
 I am a Senior Research Engineer in the [School of Computer Science and Engineering](http://scse.ntu.edu.sg/Pages/Home.aspx) at [Nanyang Technological University (NTU) Singapore](http://www.ntu.edu.sg/Pages/home.aspx). I work on full-stack [distributed ledger technology](https://en.wikipedia.org/wiki/Distributed_ledger) system research, with specialization in [blockchain](https://en.wikipedia.org/wiki/Blockchain). Currently, I’m developing our group’s in-house application agnostic blockchain platform. I also have working experience with [Ethereum](https://en.wikipedia.org/wiki/Ethereum) and [Hyperledger](https://en.wikipedia.org/wiki/Hyperledger) platforms. <!-- Our group is led by [Prof. Kwok-Yan Lam](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=KWOKYAN.LAM) and [Asst. Prof. Anupam Chattopadhyay](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=ANUPAM). -->
 
 Prior to this, I completed my [PhD](http://www.openthesis.org/document/view/603554_1.pdf) from the [School of Electrical and Electronic Engineering](http://www.eee.ntu.edu.sg/Pages/home.aspx) at NTU Singapore. My research area for PhD was mathematical modeling and simulation of semiconductor quantum nanostructures such as [quantum dots](https://en.wikipedia.org/wiki/Quantum_dot)/[wires](https://en.wikipedia.org/wiki/Quantum_wire)/[wells](https://en.wikipedia.org/wiki/Quantum_well) and [nanoplatelets](https://www.nrl.navy.mil/media/news-releases/2011/faster-colloidal-fluorescence-emitters-nanoplatelets). 
