@@ -1,6 +1,9 @@
 #!/bin/bash
 
-echo -e "\033[0;32mDeploying site to GitHub github.com/sumantabose.github.io ...\033[0m"
+bold=$(tput bold)
+normal=$(tput sgr0)
+
+echo -e "\033[0;32mDeploying site to ${bold}https://github.com/sumantabose/sumantabose.github.io${normal} ...\033[0m"
 
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
@@ -35,11 +38,13 @@ cd ..
 
 ######
 
-echo -e "\033[0;32mDeploying updates to GitHub github.com/new-site ...\033[0m"
+echo -e "\033[0;32mDeploying updates to ${bold}https://github.com/sumantabose/source${normal} ...\033[0m"
 
 # Checkout to master branch
 git checkout master
-# Update username
+# Update username, email and credential
+git config --local user.name "sumantabose"
+git config --local user.email "sumantabose@gmail.com"
 git config credential.username "sumantabose"
 # Check status
 git status
@@ -56,4 +61,4 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 
-echo -e "\033[0;32mDone ...\033[0m"
+echo -e "\033[0;32mDeployment complete. Done ...\033[0m"
