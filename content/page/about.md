@@ -10,7 +10,9 @@ weight: -270
 
 <img src="../images/welcome.png" alt="Publish and/or Perish" width="150px"/></br>
 
-[**Click here**](../downloads/docs/sumanta-bose-cv.pdf) to download my current CV. [*last updated: Jul 26, 2018*].
+[**Click here**](../downloads/docs/sumanta-bose-resume.pdf) to download my *1 page short* resume.<br>
+[**Click here**](../downloads/docs/sumanta-bose-cv.pdf) to download my *detailed* CV.<br>
+[*last updated: Jul 26, 2018*].
 
 ---
 
