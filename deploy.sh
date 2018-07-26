@@ -3,6 +3,7 @@
 bold=$(tput bold)
 normal=$(tput sgr0)
 
+echo -e "\033[0;32mDeployment started. ${bold}Go${normal} ...\033[0m"
 echo -e "\033[0;32mDeploying site to ${bold}https://github.com/sumantabose/sumantabose.github.io${normal} ...\033[0m"
 
 # Build the project.
@@ -24,7 +25,7 @@ git status
 git add .
 
 # Commit changes.
-msg="rebuilding site `date`"
+msg="Rebuilding site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
@@ -52,7 +53,7 @@ git status
 git add .
 
 # Commit changes.
-msg="rebuilding site `date`"
+msg="Rebuilding site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
@@ -61,4 +62,4 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 
-echo -e "\033[0;32mDeployment complete. Done ...\033[0m"
+echo -e "\033[0;32mDeployment complete. ${bold}Done${normal} ...\033[0m"
