@@ -6,6 +6,9 @@ normal=$(tput sgr0)
 echo -e "\033[0;32mDeployment started. ${bold}Go${normal} ...\033[0m"
 echo -e "\033[0;32mDeploying site to ${bold}https://github.com/sumantabose/sumantabose.github.io${normal} ...\033[0m"
 
+# Delete all .DS_Store files
+find . -name ".DS_Store" -delete
+
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
