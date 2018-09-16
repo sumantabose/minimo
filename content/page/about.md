@@ -12,7 +12,7 @@ weight: -270
 
 [**Click here**](../downloads/docs/sumanta-bose-resume.pdf) to download my *1 page short* resume.<br>
 [**Click here**](../downloads/docs/sumanta-bose-cv.pdf) to download my *detailed* CV.<br>
-[*last updated: Jul 27, 2018*].
+[*last updated: Sep 16, 2018*].
 
 ---
 
